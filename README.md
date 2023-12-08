@@ -61,6 +61,12 @@
 [![website](./img/youtube-light.svg)](http://www.youtube.com/@theariardians#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](http://www.youtube.com/@theariardians#gh-dark-mode-only)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theariardians&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=react"alt="My Top Lang"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theariardians&show_icons=true&hide_title=true&theme=react" alt="My Stats"/>
+</p>
 
 [webdev]: https://github.com/theardians/theariardians
