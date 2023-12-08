@@ -63,7 +63,7 @@
 [![website](./img/youtube-dark.svg)](http://www.youtube.com/@theariardians#gh-dark-mode-only)
 
 ---
-### Stats
+### Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theariardians&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=react"alt="My Top Lang"/>
 </p>
