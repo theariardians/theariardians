@@ -63,11 +63,11 @@
 
 ---
 ### Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theariardians&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=react"alt="My Top Lang"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=theariardians&show_icons=true&hide_title=true&theme=react" alt="My Stats"/>
 </p>
 
