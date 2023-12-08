@@ -53,7 +53,7 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/theariardiansyah#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/the.ariardians#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/thea.riardians#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/the.ariardians#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/theariardians#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/theariardians#gh-dark-mode-only)
@@ -63,4 +63,4 @@
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/theardians/theariardians
