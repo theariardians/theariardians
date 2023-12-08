@@ -39,7 +39,7 @@
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Html" width="30px" src="https://cdn-icons-png.flaticon.com/256/174/174854.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="JavaScript" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JavaScript" width="40px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
