@@ -36,6 +36,7 @@
 
 [<img align="left" alt="Figma" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Flutter" width="30px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Dart" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Html" width="30px" src="https://cdn-icons-png.flaticon.com/256/174/174854.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" style="padding-right:0px;" />][webdev]
