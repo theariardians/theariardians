@@ -15,16 +15,16 @@
    - Extracurricular: OSIS, Jurnalistik dan Pramuka
 
 ## Activity and Extracurricular:
-#### 1. Dewan Perwakilan Mahasiswa | Chairman of Commission II | Pontianak `March'2023 - Now`
+#### 1. Dewan Perwakilan Mahasiswa | Chairman of Commission II | Pangkal Pinang `March'2023 - Now`
    - Manage activities in the fields of politics, aspirations, advocacy and student welfare
    - Manage and be responsible for managing activities
    - Arrange and carry out activities to increase student creativity
    - Organize events successfully
-#### 2. Himpunan Mahasiswa Ilmu Komputer | Deputy Chairman of the Association | Purwokerto `AGUSTUS'2022 – Now`
+#### 2. Himpunan Mahasiswa Ilmu Komputer | Deputy Chairman of the Association | Pangkal Pinang `AGUSTUS'2022 – Now`
    - Manage and be responsible for managing association activities
    - Arrange and carry out activities to increase student creativity
    - Organize events successfully
-#### 1. Organisasi Siswa Intra Sekolah dan Pramuka | Secretary | Pontianak `OKTOBER 2019 – DESEMBER 2020`
+#### 1. Organisasi Siswa Intra Sekolah dan Pramuka | Secretary | Airgegas `OKTOBER 2019 – DESEMBER 2020`
    - Manage and be responsible for administrative records and correspondence management
    - Make pamphlets, banners, banners for school activities and activities outside of school
    - Store documents properly so that the reporting and evaluation process can run effectively
