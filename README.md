@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently student at Department of Computer Science, Muhammadiyah University of Bangka Belitung
 - 🌱 I’m currently learning Figma, Flutter and Python
-- 👯 I’m looking to collaborate as UI/UX Designer and Graphic Designer
+- 👯 I’m looking to collaborate as Graphic Designer and UI/UX Designer 
 - 💬 Ask me about anything
 - 📫 How to reach me: theariardians@gmail.com
 
