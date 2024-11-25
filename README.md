@@ -10,7 +10,7 @@
 
 #### 1. [Universitas Muhammadiyah Bangka Belitung](https://unmuhbabel.ac.id/) | Bachelor of Computer Science  | PangkalanBaru `2021 - Now`
    - Extracurricular: Dewan Perwakilan Mahasiswa, Himpunan Mahasiswa, Hizbul Wathan
-   - Relevant courses: Multimedia, Artificial Intelligence, Machine Learning, Cloud Computing, Data Mining, Human-Computer Interaction
+   - Relevant courses: Artificial Intelligence, Machine Learning, Cloud Computing, Data Mining, Human-Computer Interaction and Multimedia
  #### 2. [SMA N 1 Airgegas](https://sman1airgegas.sch.id/) | MIPA | Airgegas `2019-2021`
    - Extracurricular: OSIS, Jurnalistik dan Pramuka
 
